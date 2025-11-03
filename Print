@@ -1,0 +1,5 @@
+a = input("enter a number")
+b = input("enter a number")
+# for whole number print(int(a) + int(b))
+# for decimals use float
+print(float(a) + float(b))
